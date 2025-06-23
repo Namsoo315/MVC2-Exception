@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MVC2-Exception.iml" filepath="$PROJECT_DIR$/.idea/MVC2-Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exception.main.iml" />
     </modules>
   </component>
 </project>
